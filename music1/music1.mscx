@@ -658,7 +658,13 @@
         <height>10</height>
         <Text>
           <style>Title</style>
+          <offset x="0.503132" y="1.76096"/>
           <text>music1</text>
+          </Text>
+        <Text>
+          <style>Instrument Name (Part)</style>
+          <offset x="1.76096" y="10.8173"/>
+          <text><font size="9"/>First score of the SharedMScore git project. I have started to write this in a common pop rock style with basic chords.</text>
           </Text>
         </VBox>
       <Measure>
