@@ -48,6 +48,7 @@ Once everything is up, launch MuseScore and open any score you want from **Share
 
 * Create a new **sub-directory** (like ``music1`` folder)
 * In MuseScore, create a new score under **this sub-directory** (with anything you want, any instruments, any title, any description, etc.)
+* You can add a short description of your music in the score sheet (in subtitle, in description text, etc.)
 * Save it under the **sub-directory**'s name.
 * Close the score from MuseScore.
 * Extract files from the new file which ends with ``.mscz``
