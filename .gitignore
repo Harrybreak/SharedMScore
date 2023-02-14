@@ -1,0 +1,34 @@
+# You must only deal with MuSiCXml files (.mscx) there !
+
+# Read README.md to know more about it.
+
+# TEMP MSCZ FILES
+.*.mscz,
+*.mscz,
+.mscbackup/
+
+# COMPRESSED MSCZ FILES
+*.mscz
+
+# AUDIO FILES
+*.mp3
+*.ogg
+*.m4a
+*.wav
+*.3gp
+*.dat
+
+# ARCHIVED SCORES
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.webm
+*.html
+*.htm
+*.css
+*.js
+*.json
+*.xml
